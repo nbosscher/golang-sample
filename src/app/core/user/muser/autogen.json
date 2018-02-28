@@ -1,0 +1,6 @@
+{
+    "methods": ["List", "Get", "Create", "Archive"],
+    "tableName": "[User]",
+    "struct": "types.User",
+    "idType": "id.User"
+}
